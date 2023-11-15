@@ -1,4 +1,4 @@
-## Deloitte's Unlocking Customer Insights
+## Bank Marketing
  
 ### Summary
 This project undertakes a comprehensive analysis of a bank marketing dataset provided by Deloitte to formulate an effective strategy for term deposit subscriptions. The data is thoroughly examined, and key features are identified through data visualization. The preprocessing phase includes encoding categorical variables and scaling features. Six machine learning models, including Logistic Regression, Linear Support Vector Classifier, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier, and XGBoost Classifier, are trained and evaluated for their performance on both training and testing sets. The results are used to propose a comprehensive marketing strategy. Insights include optimal marketing months, a call policy recommendation, age targeting, occupation influence, consideration of house loans and balances, call duration strategy, engagement strategies, contact preferences, and the impact of the outcome of previous campaigns and job influence on term deposit subscriptions.
