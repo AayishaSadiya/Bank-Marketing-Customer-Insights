@@ -17,7 +17,6 @@ This project undertakes a comprehensive analysis of a bank marketing dataset pro
 3. Model Training:
 * Six models including Logistic Regression, Linear Support Vector Classifier, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier, and XGBoost Classifier models trained.
 
-
 4. Model Evaluation:
 * Train set accuracy scores analyzed for each model.
 * Test set metrics (accuracy, f1_score, precision, recall, balanced_accuracy) computed for model evaluation.
